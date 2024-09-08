@@ -27,28 +27,20 @@ public:
 
         
         vector<ListNode*> list;
-        for(int i=0; i<rem; i++) {
+        for(int i=0; i<k; i++) {
             int curr = 1;
             list.push_back(temp);
             while(temp != NULL) {
                 prev = temp;
                 temp = temp->next;
-                if(curr == div + 1) {
+                if(curr == div + 1 && rem > 0) {
                     prev->next = NULL;
+                    rem--;
                     break;
                 }
-                curr++;
-            }
-        }
-        for(int i= rem; i<k; i++) {
-             int curr = 1;
-            list.push_back(temp);
-              while(temp != NULL) {
-                prev = temp;
-                temp = temp->next;
-                if(curr == div) {
-                    prev->next = NULL;
-                    break;
+                else if(curr == div && rem == 0){
+                     prev->next = NULL;
+                     break;
                 }
                 curr++;
             }
