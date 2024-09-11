@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2411-spiral-matrix-iv](https://github.com/prudvi-satya-teja/LeetCode/tree/master/2411-spiral-matrix-iv) |
 | [3485-maximize-score-of-numbers-in-ranges](https://github.com/prudvi-satya-teja/LeetCode/tree/master/3485-maximize-score-of-numbers-in-ranges) |
+| [3528-reach-end-of-array-with-max-score](https://github.com/prudvi-satya-teja/LeetCode/tree/master/3528-reach-end-of-array-with-max-score) |
 ## Matrix
 |  |
 | ------- |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3485-maximize-score-of-numbers-in-ranges](https://github.com/prudvi-satya-teja/LeetCode/tree/master/3485-maximize-score-of-numbers-in-ranges) |
+| [3528-reach-end-of-array-with-max-score](https://github.com/prudvi-satya-teja/LeetCode/tree/master/3528-reach-end-of-array-with-max-score) |
 ## Sorting
 |  |
 | ------- |
