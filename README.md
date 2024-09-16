@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0539-minimum-time-difference](https://github.com/prudvi-satya-teja/LeetCode/tree/master/0539-minimum-time-difference) |
 | [1435-xor-queries-of-a-subarray](https://github.com/prudvi-satya-teja/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/prudvi-satya-teja/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2411-spiral-matrix-iv](https://github.com/prudvi-satya-teja/LeetCode/tree/master/2411-spiral-matrix-iv) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0539-minimum-time-difference](https://github.com/prudvi-satya-teja/LeetCode/tree/master/0539-minimum-time-difference) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/prudvi-satya-teja/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Number Theory
 |  |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0539-minimum-time-difference](https://github.com/prudvi-satya-teja/LeetCode/tree/master/0539-minimum-time-difference) |
 | [3485-maximize-score-of-numbers-in-ranges](https://github.com/prudvi-satya-teja/LeetCode/tree/master/3485-maximize-score-of-numbers-in-ranges) |
 ## Bit Manipulation
 |  |
@@ -78,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0539-minimum-time-difference](https://github.com/prudvi-satya-teja/LeetCode/tree/master/0539-minimum-time-difference) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/prudvi-satya-teja/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/prudvi-satya-teja/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Counting
