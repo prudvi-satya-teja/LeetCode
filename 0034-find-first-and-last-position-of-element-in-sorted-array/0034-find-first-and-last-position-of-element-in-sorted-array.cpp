@@ -6,22 +6,15 @@ public:
         int n = nums.size();
         int low = 0;
         int high = n-1;
+        int first = -1, last = -1;
+
 
         while(low <= high) {
             int mid = (low + high) / 2;
 
             if(nums[mid] == target) {
-                // l
-                if(mid == low) {
-                    v.push_back(mid);
-                    break;
-                }
-                else if(mid > low  && nums[mid-1] == target) {
-                        high = mid-1;
-                }
-                else {
-                    low = mid;
-                }
+                first = mid;
+                high = mid - 1;
             }
             else if(target < nums[mid]) {
                 high = mid -1;
@@ -29,9 +22,6 @@ public:
             else {
                 low = mid + 1;
             }
-        }
-        if(v.empty()) {
-            v.push_back(-1);
         }
 
         low = 0;
@@ -41,17 +31,8 @@ public:
             int mid = (low + high) / 2;
 
             if(nums[mid] == target) {
-                // l
-                if(mid == high) {
-                    v.push_back(mid);
-                    break;
-                }
-                else if(mid < high  && nums[mid+1] == target) {
-                        low = mid + 1;
-                }
-                else {
-                    high = mid;
-                }
+                last = mid;
+                low = mid + 1;
             }
             else if(target < nums[mid]) {
                 high = mid -1;
@@ -61,7 +42,8 @@ public:
             }
         }
 
-        if(v.size() == 1) v.push_back(-1);
+        v.push_back(first);
+        v.push_back(last);
         return v;
     }
 };
