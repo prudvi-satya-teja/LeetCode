@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/prudvi-satya-teja/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0179-largest-number](https://github.com/prudvi-satya-teja/LeetCode/tree/master/0179-largest-number) |
 | [0209-minimum-size-subarray-sum](https://github.com/prudvi-satya-teja/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0240-search-a-2d-matrix-ii](https://github.com/prudvi-satya-teja/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0539-minimum-time-difference](https://github.com/prudvi-satya-teja/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0540-single-element-in-a-sorted-array](https://github.com/prudvi-satya-teja/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [1435-xor-queries-of-a-subarray](https://github.com/prudvi-satya-teja/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/prudvi-satya-teja/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/prudvi-satya-teja/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [2411-spiral-matrix-iv](https://github.com/prudvi-satya-teja/LeetCode/tree/master/2411-spiral-matrix-iv) |
 ## Simulation
 |  |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/prudvi-satya-teja/LeetCode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/prudvi-satya-teja/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/prudvi-satya-teja/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0240-search-a-2d-matrix-ii](https://github.com/prudvi-satya-teja/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/prudvi-satya-teja/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [3485-maximize-score-of-numbers-in-ranges](https://github.com/prudvi-satya-teja/LeetCode/tree/master/3485-maximize-score-of-numbers-in-ranges) |
 ## Greedy
@@ -142,4 +145,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/prudvi-satya-teja/LeetCode/tree/master/0386-lexicographical-numbers) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/prudvi-satya-teja/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 <!---LeetCode Topics End-->
