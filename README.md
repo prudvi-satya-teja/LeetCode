@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/prudvi-satya-teja/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0539-minimum-time-difference](https://github.com/prudvi-satya-teja/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0540-single-element-in-a-sorted-array](https://github.com/prudvi-satya-teja/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0907-koko-eating-bananas](https://github.com/prudvi-satya-teja/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [1435-xor-queries-of-a-subarray](https://github.com/prudvi-satya-teja/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/prudvi-satya-teja/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2411-spiral-matrix-iv](https://github.com/prudvi-satya-teja/LeetCode/tree/master/2411-spiral-matrix-iv) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/prudvi-satya-teja/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/prudvi-satya-teja/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/prudvi-satya-teja/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0907-koko-eating-bananas](https://github.com/prudvi-satya-teja/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [3485-maximize-score-of-numbers-in-ranges](https://github.com/prudvi-satya-teja/LeetCode/tree/master/3485-maximize-score-of-numbers-in-ranges) |
 ## Greedy
 |  |
