@@ -4,24 +4,20 @@ public:
 
         int n = matrix.size();
         int m = matrix[0].size();
+        int low = 0;
+        int high = (n * m) -1;
 
-        int idx1 = 0,  idx2 = m-1;
+        int mid = 0;
 
-        while(idx1 < n && idx2 >= 0) {
-            int val = matrix[idx1][idx2];
-            if(val == target) {
-                return true;
-            }
-            else if(val < target) {
-                idx1++;
-            }
-            else {
-                idx2--;
-            }
+        while(low <= high) {
+             mid = (low + high) >> 1;
+            int r = mid / (m);
+            int c = mid %( m);
+            if(matrix[r][c] == target)  return true;
+            else if(matrix[r][c] > target)   high = mid - 1;
+            else  low = mid + 1;
         }
+
         return false;
-
-
-        
     }
 };
