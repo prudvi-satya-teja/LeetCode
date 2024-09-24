@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/prudvi-satya-teja/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2411-spiral-matrix-iv](https://github.com/prudvi-satya-teja/LeetCode/tree/master/2411-spiral-matrix-iv) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/prudvi-satya-teja/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/prudvi-satya-teja/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3485-maximize-score-of-numbers-in-ranges](https://github.com/prudvi-satya-teja/LeetCode/tree/master/3485-maximize-score-of-numbers-in-ranges) |
 | [3518-maximum-multiplication-score](https://github.com/prudvi-satya-teja/LeetCode/tree/master/3518-maximum-multiplication-score) |
 | [3528-reach-end-of-array-with-max-score](https://github.com/prudvi-satya-teja/LeetCode/tree/master/3528-reach-end-of-array-with-max-score) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0920-uncommon-words-from-two-sentences](https://github.com/prudvi-satya-teja/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/prudvi-satya-teja/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/prudvi-satya-teja/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/prudvi-satya-teja/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## String
 |  |
 | ------- |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0920-uncommon-words-from-two-sentences](https://github.com/prudvi-satya-teja/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/prudvi-satya-teja/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/prudvi-satya-teja/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/prudvi-satya-teja/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Counting
 |  |
 | ------- |
@@ -149,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/prudvi-satya-teja/LeetCode/tree/master/0386-lexicographical-numbers) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/prudvi-satya-teja/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Divide and Conquer
 |  |
 | ------- |
