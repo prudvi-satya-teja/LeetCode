@@ -113,7 +113,7 @@ public:
     }
     
     bool isFull() {
-        if((si == 0 && ei == k-1 ) ||( ei == si - 1)) return true;
+        if(((ei + 1 ) % k) == si) return true;
         return false;
     }
 };
