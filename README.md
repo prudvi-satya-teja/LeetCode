@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0725-split-linked-list-in-parts](https://github.com/prudvi-satya-teja/LeetCode/tree/master/0725-split-linked-list-in-parts) |
+| [0859-design-circular-deque](https://github.com/prudvi-satya-teja/LeetCode/tree/master/0859-design-circular-deque) |
 | [1484-linked-list-in-binary-tree](https://github.com/prudvi-satya-teja/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 | [2411-spiral-matrix-iv](https://github.com/prudvi-satya-teja/LeetCode/tree/master/2411-spiral-matrix-iv) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/prudvi-satya-teja/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/prudvi-satya-teja/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0539-minimum-time-difference](https://github.com/prudvi-satya-teja/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0540-single-element-in-a-sorted-array](https://github.com/prudvi-satya-teja/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0859-design-circular-deque](https://github.com/prudvi-satya-teja/LeetCode/tree/master/0859-design-circular-deque) |
 | [0907-koko-eating-bananas](https://github.com/prudvi-satya-teja/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [1435-xor-queries-of-a-subarray](https://github.com/prudvi-satya-teja/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/prudvi-satya-teja/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -161,4 +163,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/prudvi-satya-teja/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+## Design
+|  |
+| ------- |
+| [0859-design-circular-deque](https://github.com/prudvi-satya-teja/LeetCode/tree/master/0859-design-circular-deque) |
+## Queue
+|  |
+| ------- |
+| [0859-design-circular-deque](https://github.com/prudvi-satya-teja/LeetCode/tree/master/0859-design-circular-deque) |
 <!---LeetCode Topics End-->
