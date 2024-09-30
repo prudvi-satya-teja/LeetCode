@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0859-design-circular-deque](https://github.com/prudvi-satya-teja/LeetCode/tree/master/0859-design-circular-deque) |
 | [0907-koko-eating-bananas](https://github.com/prudvi-satya-teja/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [1435-xor-queries-of-a-subarray](https://github.com/prudvi-satya-teja/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/prudvi-satya-teja/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/prudvi-satya-teja/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2411-spiral-matrix-iv](https://github.com/prudvi-satya-teja/LeetCode/tree/master/2411-spiral-matrix-iv) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/prudvi-satya-teja/LeetCode/tree/master/2494-sum-of-prefix-scores-of-strings) |
@@ -167,8 +168,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0859-design-circular-deque](https://github.com/prudvi-satya-teja/LeetCode/tree/master/0859-design-circular-deque) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/prudvi-satya-teja/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
 ## Queue
 |  |
 | ------- |
 | [0859-design-circular-deque](https://github.com/prudvi-satya-teja/LeetCode/tree/master/0859-design-circular-deque) |
+## Stack
+|  |
+| ------- |
+| [1497-design-a-stack-with-increment-operation](https://github.com/prudvi-satya-teja/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
 <!---LeetCode Topics End-->
