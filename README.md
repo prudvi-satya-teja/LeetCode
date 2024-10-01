@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/prudvi-satya-teja/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/prudvi-satya-teja/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3485-maximize-score-of-numbers-in-ranges](https://github.com/prudvi-satya-teja/LeetCode/tree/master/3485-maximize-score-of-numbers-in-ranges) |
+| [3510-maximize-the-total-height-of-unique-towers](https://github.com/prudvi-satya-teja/LeetCode/tree/master/3510-maximize-the-total-height-of-unique-towers) |
 | [3518-maximum-multiplication-score](https://github.com/prudvi-satya-teja/LeetCode/tree/master/3518-maximum-multiplication-score) |
 | [3528-reach-end-of-array-with-max-score](https://github.com/prudvi-satya-teja/LeetCode/tree/master/3528-reach-end-of-array-with-max-score) |
 ## Matrix
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0179-largest-number](https://github.com/prudvi-satya-teja/LeetCode/tree/master/0179-largest-number) |
 | [3485-maximize-score-of-numbers-in-ranges](https://github.com/prudvi-satya-teja/LeetCode/tree/master/3485-maximize-score-of-numbers-in-ranges) |
+| [3510-maximize-the-total-height-of-unique-towers](https://github.com/prudvi-satya-teja/LeetCode/tree/master/3510-maximize-the-total-height-of-unique-towers) |
 | [3528-reach-end-of-array-with-max-score](https://github.com/prudvi-satya-teja/LeetCode/tree/master/3528-reach-end-of-array-with-max-score) |
 ## Sorting
 |  |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/prudvi-satya-teja/LeetCode/tree/master/0179-largest-number) |
 | [0539-minimum-time-difference](https://github.com/prudvi-satya-teja/LeetCode/tree/master/0539-minimum-time-difference) |
 | [3485-maximize-score-of-numbers-in-ranges](https://github.com/prudvi-satya-teja/LeetCode/tree/master/3485-maximize-score-of-numbers-in-ranges) |
+| [3510-maximize-the-total-height-of-unique-towers](https://github.com/prudvi-satya-teja/LeetCode/tree/master/3510-maximize-the-total-height-of-unique-towers) |
 ## Bit Manipulation
 |  |
 | ------- |
