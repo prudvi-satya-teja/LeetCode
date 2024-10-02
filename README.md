@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/prudvi-satya-teja/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0859-design-circular-deque](https://github.com/prudvi-satya-teja/LeetCode/tree/master/0859-design-circular-deque) |
 | [0907-koko-eating-bananas](https://github.com/prudvi-satya-teja/LeetCode/tree/master/0907-koko-eating-bananas) |
+| [1256-rank-transform-of-an-array](https://github.com/prudvi-satya-teja/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1435-xor-queries-of-a-subarray](https://github.com/prudvi-satya-teja/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/prudvi-satya-teja/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/prudvi-satya-teja/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0179-largest-number](https://github.com/prudvi-satya-teja/LeetCode/tree/master/0179-largest-number) |
 | [0539-minimum-time-difference](https://github.com/prudvi-satya-teja/LeetCode/tree/master/0539-minimum-time-difference) |
+| [1256-rank-transform-of-an-array](https://github.com/prudvi-satya-teja/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [3485-maximize-score-of-numbers-in-ranges](https://github.com/prudvi-satya-teja/LeetCode/tree/master/3485-maximize-score-of-numbers-in-ranges) |
 | [3510-maximize-the-total-height-of-unique-towers](https://github.com/prudvi-satya-teja/LeetCode/tree/master/3510-maximize-the-total-height-of-unique-towers) |
 ## Bit Manipulation
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/prudvi-satya-teja/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/prudvi-satya-teja/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1256-rank-transform-of-an-array](https://github.com/prudvi-satya-teja/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/prudvi-satya-teja/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/prudvi-satya-teja/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/prudvi-satya-teja/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
