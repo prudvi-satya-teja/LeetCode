@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/prudvi-satya-teja/LeetCode/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/prudvi-satya-teja/LeetCode/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/prudvi-satya-teja/LeetCode/tree/master/0342-power-of-four) |
 | [0539-minimum-time-difference](https://github.com/prudvi-satya-teja/LeetCode/tree/master/0539-minimum-time-difference) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/prudvi-satya-teja/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Number Theory
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/prudvi-satya-teja/LeetCode/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/prudvi-satya-teja/LeetCode/tree/master/0342-power-of-four) |
 | [0461-hamming-distance](https://github.com/prudvi-satya-teja/LeetCode/tree/master/0461-hamming-distance) |
 | [1435-xor-queries-of-a-subarray](https://github.com/prudvi-satya-teja/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/prudvi-satya-teja/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
@@ -208,4 +210,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/prudvi-satya-teja/LeetCode/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/prudvi-satya-teja/LeetCode/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
