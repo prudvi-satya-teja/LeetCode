@@ -1,16 +1,6 @@
 class Solution {
 public:
-    void solve(vector<bool>& vis, vector<vector<int>>& edges, int src) {
-        vis[src] = true;
-
-        for(int i=0; i<edges[src].size(); i++) {
-            int neigh = edges[src][i];
-            if(!vis[neigh]) {
-                solve(vis, edges, neigh);
-            }
-        }
-    }
-    bool validPath(int n, vector<vector<int>>& edges, int source, int destination) {
+    bool validPath(int n, vector<vector<int>>& edges, int src, int dest) {
         vector<bool> vis(n, false);
 
         vector<vector<int>> graph(n);
@@ -23,8 +13,29 @@ public:
             graph[v].push_back(u);
         }
 
-        solve(vis, graph, source);
-        return vis[destination];
+        queue<int> q;
+        q.push(src);
+
+
+        while(!q.empty()) {
+            int curr = q.front();
+            if(curr == dest) return true;
+            q.pop();
+
+            if(!vis[curr]) {
+                vis[curr] = true;
+
+                for(int i=0; i<graph[curr].size(); i++) {
+                    int neigh = graph[curr][i];
+                    if(!vis[neigh]) {
+                        q.push(neigh);
+                    }
+                }
+
+            }
+        }
+
+        return false;
         
     }
 };
