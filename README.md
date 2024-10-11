@@ -17,11 +17,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/prudvi-satya-teja/LeetCode/tree/master/0386-lexicographical-numbers) |
+| [0813-all-paths-from-source-to-target](https://github.com/prudvi-satya-teja/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
 | [1484-linked-list-in-binary-tree](https://github.com/prudvi-satya-teja/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 | [2121-find-if-path-exists-in-graph](https://github.com/prudvi-satya-teja/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0813-all-paths-from-source-to-target](https://github.com/prudvi-satya-teja/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
 | [1484-linked-list-in-binary-tree](https://github.com/prudvi-satya-teja/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 | [2121-find-if-path-exists-in-graph](https://github.com/prudvi-satya-teja/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
 ## Binary Tree
@@ -223,5 +225,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [0813-all-paths-from-source-to-target](https://github.com/prudvi-satya-teja/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
 | [2121-find-if-path-exists-in-graph](https://github.com/prudvi-satya-teja/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
+## Backtracking
+|  |
+| ------- |
+| [0813-all-paths-from-source-to-target](https://github.com/prudvi-satya-teja/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
 <!---LeetCode Topics End-->
