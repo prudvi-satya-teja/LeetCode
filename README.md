@@ -18,10 +18,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/prudvi-satya-teja/LeetCode/tree/master/0386-lexicographical-numbers) |
 | [1484-linked-list-in-binary-tree](https://github.com/prudvi-satya-teja/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
+| [2121-find-if-path-exists-in-graph](https://github.com/prudvi-satya-teja/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [1484-linked-list-in-binary-tree](https://github.com/prudvi-satya-teja/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
+| [2121-find-if-path-exists-in-graph](https://github.com/prudvi-satya-teja/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
 | ------- |
@@ -214,4 +216,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/prudvi-satya-teja/LeetCode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/prudvi-satya-teja/LeetCode/tree/master/0342-power-of-four) |
+## Union Find
+|  |
+| ------- |
+| [2121-find-if-path-exists-in-graph](https://github.com/prudvi-satya-teja/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
+## Graph
+|  |
+| ------- |
+| [2121-find-if-path-exists-in-graph](https://github.com/prudvi-satya-teja/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
