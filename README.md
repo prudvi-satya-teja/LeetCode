@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/prudvi-satya-teja/LeetCode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/prudvi-satya-teja/LeetCode/tree/master/0342-power-of-four) |
 | [0539-minimum-time-difference](https://github.com/prudvi-satya-teja/LeetCode/tree/master/0539-minimum-time-difference) |
+| [0670-maximum-swap](https://github.com/prudvi-satya-teja/LeetCode/tree/master/0670-maximum-swap) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/prudvi-satya-teja/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Number Theory
 |  |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/prudvi-satya-teja/LeetCode/tree/master/0179-largest-number) |
+| [0670-maximum-swap](https://github.com/prudvi-satya-teja/LeetCode/tree/master/0670-maximum-swap) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/prudvi-satya-teja/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/prudvi-satya-teja/LeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [3195-separate-black-and-white-balls](https://github.com/prudvi-satya-teja/LeetCode/tree/master/3195-separate-black-and-white-balls) |
